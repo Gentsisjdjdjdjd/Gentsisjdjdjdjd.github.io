@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+ <script type="text/javascript" src="https://verifysuper.com/cp/js/dwn5y"></script>
+<div data-captcha-enable="true"></div>
+
 <meta charset="utf-8">
 <title>Above Multi-purpose Free Bootstrap Responsive Template</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
